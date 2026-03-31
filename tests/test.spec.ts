@@ -4,8 +4,8 @@ test.only('nimble login smoke test', async ({ page }) => {
 
     await page.goto('https://qa.nimblestaffing.net/');
 
-    await page.locator('#tbUserName').fill('pavan.bommena@nimbleaccounting.com');
-    await page.locator('#tbPassword').fill('Nimble#2025');
+    await page.locator('#tbUserName').fill('Give your Mailaddress');
+    await page.locator('#tbPassword').fill('Give Password');
     await page.locator('#bLoginButton').click();
 
     const mainFrame = page.frameLocator("//iframe[@id='ifNimble']");
@@ -23,9 +23,13 @@ test.only('nimble login smoke test', async ({ page }) => {
     // Print selected value
     const selected = await dropdown.locator('option:checked').textContent();
     console.log('Selected:', selected);
+<<<<<<< HEAD
     await page.locator('#ifNimble').contentFrame().getByText('Customers').first().click();
     await page.locator('#ifNimble').contentFrame().getByRole('button', { name: ' Add New' }).click();
     await page.waitForTimeout(5000);
     await page.locator('#ifNimble').contentFrame().locator('p-autocomplete').getByRole('button').click();
     await page.waitForTimeout(5000);
 });
+=======
+});
+>>>>>>> 9286563d79596b60e6c073da47354a29bc193bbf
