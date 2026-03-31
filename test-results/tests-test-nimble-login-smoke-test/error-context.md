@@ -1,0 +1,649 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - text: 
+      - iframe [active] [ref=e2]:
+        - generic:
+          - generic [ref=f2e1]:
+            - img [ref=f2e3]
+            - button [ref=f2e7] [cursor=pointer]:
+              - generic [ref=f2e8]: 
+            - link [ref=f2e11] [cursor=pointer]:
+              - /url: ../Search/SearchScreen.aspx?Menu=010000000000000000000000000000000341&Level=0&HeadMenu=Utilities&q=
+              - button [ref=f2e12]:
+                - generic [ref=f2e13]: 
+            - button [ref=f2e16] [cursor=pointer]:
+              - generic [ref=f2e17]: 
+            - generic [ref=f2e18]:
+              - button [ref=f2e19] [cursor=pointer]: 
+              - combobox [ref=f2e21]
+              - button [ref=f2e25] [cursor=pointer]:
+                - generic [ref=f2e26]: 
+              - button [ref=f2e29] [cursor=pointer]:
+                - generic [ref=f2e30]: 
+          - list [ref=f2e33]:
+            - listitem [ref=f2e34] [cursor=pointer]:
+              - generic [ref=f2e35]:
+                - generic [ref=f2e36]: 
+                - generic [ref=f2e37]: Hide Menu
+            - listitem [ref=f2e38] [cursor=pointer]:
+              - generic [ref=f2e39]:
+                - generic [ref=f2e40]: 
+                - generic [ref=f2e41]: Admin/Users
+            - listitem [ref=f2e42] [cursor=pointer]:
+              - generic [ref=f2e43]:
+                - generic [ref=f2e44]: 
+                - generic [ref=f2e45]: Customers
+            - listitem [ref=f2e46] [cursor=pointer]:
+              - generic [ref=f2e47]:
+                - generic [ref=f2e48]: 
+                - generic [ref=f2e49]: Vendors
+            - listitem [ref=f2e50] [cursor=pointer]:
+              - generic [ref=f2e51]:
+                - generic [ref=f2e52]: 
+                - generic [ref=f2e53]: Timesheet
+            - listitem [ref=f2e54] [cursor=pointer]:
+              - generic [ref=f2e55]:
+                - generic [ref=f2e56]: 
+                - generic [ref=f2e57]: Payroll
+            - listitem [ref=f2e58] [cursor=pointer]:
+              - generic [ref=f2e59]:
+                - generic [ref=f2e60]: 
+                - generic [ref=f2e61]: Inter-Company
+            - listitem [ref=f2e62] [cursor=pointer]:
+              - generic [ref=f2e63]:
+                - generic [ref=f2e64]: 
+                - generic [ref=f2e65]: Commissions
+            - listitem [ref=f2e66] [cursor=pointer]:
+              - generic [ref=f2e67]:
+                - generic [ref=f2e68]: 
+                - generic [ref=f2e69]: Banking
+            - listitem [ref=f2e70] [cursor=pointer]:
+              - generic [ref=f2e71]:
+                - generic [ref=f2e72]: 
+                - generic [ref=f2e73]: Accountant
+            - listitem [ref=f2e74] [cursor=pointer]:
+              - generic [ref=f2e75]:
+                - generic [ref=f2e76]: 
+                - generic [ref=f2e77]: Masters
+            - listitem [ref=f2e78] [cursor=pointer]:
+              - generic [ref=f2e79]:
+                - generic [ref=f2e80]: 
+                - generic [ref=f2e81]: Utilities
+            - listitem [ref=f2e82] [cursor=pointer]:
+              - generic [ref=f2e83]:
+                - generic [ref=f2e84]: 
+                - generic [ref=f2e85]: Reports
+          - list [ref=f2e87]:
+            - listitem [ref=f2e88] [cursor=pointer]:
+              - generic [ref=f2e89]:
+                - generic [ref=f2e90]: 
+                - generic [ref=f2e91]: 
+                - generic [ref=f2e92]: Hide Menu
+            - listitem [ref=f2e93] [cursor=pointer]:
+              - generic [ref=f2e94]:
+                - generic [ref=f2e95]: 
+                - generic [ref=f2e96]: 
+                - generic [ref=f2e97]: Admin/Users
+            - listitem [ref=f2e98] [cursor=pointer]:
+              - generic [ref=f2e99]:
+                - generic [ref=f2e100]: 
+                - generic [ref=f2e101]: 
+                - generic [ref=f2e102]: Customers
+            - listitem [ref=f2e103] [cursor=pointer]:
+              - generic [ref=f2e104]:
+                - generic [ref=f2e105]: 
+                - generic [ref=f2e106]: 
+                - generic [ref=f2e107]: Vendors
+            - listitem [ref=f2e108] [cursor=pointer]:
+              - generic [ref=f2e109]:
+                - generic [ref=f2e110]: 
+                - generic [ref=f2e111]: 
+                - generic [ref=f2e112]: Timesheet
+            - listitem [ref=f2e113] [cursor=pointer]:
+              - generic [ref=f2e114]:
+                - generic [ref=f2e115]: 
+                - generic [ref=f2e116]: 
+                - generic [ref=f2e117]: Payroll
+            - listitem [ref=f2e118] [cursor=pointer]:
+              - generic [ref=f2e119]:
+                - generic [ref=f2e120]: 
+                - generic [ref=f2e121]: 
+                - generic [ref=f2e122]: Inter-Company
+            - listitem [ref=f2e123] [cursor=pointer]:
+              - generic [ref=f2e124]:
+                - generic [ref=f2e125]: 
+                - generic [ref=f2e126]: 
+                - generic [ref=f2e127]: Commissions
+            - listitem [ref=f2e128] [cursor=pointer]:
+              - generic [ref=f2e129]:
+                - generic [ref=f2e130]: 
+                - generic [ref=f2e131]: 
+                - generic [ref=f2e132]: Banking
+            - listitem [ref=f2e133] [cursor=pointer]:
+              - generic [ref=f2e134]:
+                - generic [ref=f2e135]: 
+                - generic [ref=f2e136]: 
+                - generic [ref=f2e137]: Accountant
+            - listitem [ref=f2e138] [cursor=pointer]:
+              - generic [ref=f2e139]:
+                - generic [ref=f2e140]: 
+                - generic [ref=f2e141]: 
+                - generic [ref=f2e142]: Masters
+            - listitem [ref=f2e143] [cursor=pointer]:
+              - generic [ref=f2e144]:
+                - generic [ref=f2e145]: 
+                - generic [ref=f2e146]: 
+                - generic [ref=f2e147]: Utilities
+            - listitem [ref=f2e148] [cursor=pointer]:
+              - generic [ref=f2e149]:
+                - generic [ref=f2e150]: 
+                - generic [ref=f2e151]: 
+                - generic [ref=f2e152]: Reports
+          - generic [ref=f2e154]:
+            - generic [ref=f2e155]:
+              - tablist [ref=f2e156]:
+                - listitem [ref=f2e157]:
+                  - link [ref=f2e158] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/summary
+                    - text: Summary
+                - listitem [ref=f2e159]:
+                  - link [ref=f2e160] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/customers-list
+                    - text: Customer
+                - listitem [ref=f2e161]:
+                  - link [ref=f2e162] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/invoices
+                    - text: Invoice Entry
+                - listitem [ref=f2e163]:
+                  - link [ref=f2e164] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/invoice-automation
+                    - text: Invoice Automation
+                - listitem [ref=f2e165]:
+                  - link [ref=f2e166] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/receipts
+                    - text: Receive Payment
+                - listitem [ref=f2e167]:
+                  - link [ref=f2e168] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/receipt-deposit
+                    - text: Receipt Deposit
+                - listitem [ref=f2e169]:
+                  - link [ref=f2e170] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/credit-memos
+                    - text: Credit Memo
+                - listitem [ref=f2e171]:
+                  - link [ref=f2e172] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/ar-followup
+                    - text: AR Follow-up
+                - listitem [ref=f2e173]:
+                  - link [ref=f2e174] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/print-invoice
+                    - text: Print Invoice
+                - listitem [ref=f2e175]:
+                  - link [ref=f2e176] [cursor=pointer]:
+                    - /url: /dist_1.242/customers/recurring-invoices
+                    - text: Recurring Invoices
+              - generic [ref=f2e182]:
+                - generic [ref=f2e183]:
+                  - generic [ref=f2e184]:
+                    - button [ref=f2e185] [cursor=pointer]:
+                      - generic [ref=f2e186]: 
+                      - text: Add New
+                    - button [ref=f2e187] [cursor=pointer]: E Receipt
+                    - button [ref=f2e189] [cursor=pointer]: Batch Actions
+                  - combobox [ref=f2e193]
+                - generic [ref=f2e197]:
+                  - generic [ref=f2e198]:
+                    - generic [ref=f2e199]: Corporation
+                    - combobox [ref=f2e200]
+                  - generic [ref=f2e201]:
+                    - generic [ref=f2e202]: View Transactions
+                    - combobox [ref=f2e203]
+                  - generic [ref=f2e204]:
+                    - generic [ref=f2e205]: From
+                    - generic [ref=f2e206]:
+                      - textbox [ref=f2e207]:
+                        - /placeholder: MM/DD/YYYY
+                        - text: 3/31/2026
+                      - button [ref=f2e209] [cursor=pointer]:
+                        - generic [ref=f2e210]: 
+                  - generic [ref=f2e211]:
+                    - generic [ref=f2e212]: To
+                    - generic [ref=f2e213]:
+                      - textbox [ref=f2e214]:
+                        - /placeholder: MM/DD/YYYY
+                        - text: 3/31/2026
+                      - button [ref=f2e216] [cursor=pointer]:
+                        - generic [ref=f2e217]: 
+                  - generic [ref=f2e218]:
+                    - generic [ref=f2e219]: Sort by
+                    - combobox [ref=f2e220]
+                  - generic [ref=f2e222] [cursor=pointer]: Asc
+                  - generic [ref=f2e225] [cursor=pointer]: Desc
+                  - listbox [ref=f2e228]:
+                    - option [ref=f2e229]: Invoice Num
+                    - option [ref=f2e230]: "Customer: Consultant"
+                    - option [ref=f2e231]: Amount
+                    - option [ref=f2e232]: Status
+                  - table [ref=f2e235]:
+                    - rowgroup [ref=f2e236]:
+                      - row [ref=f2e237]:
+                        - columnheader [ref=f2e238]: Column
+                        - columnheader [ref=f2e239]: As
+                        - columnheader [ref=f2e240]: Remove
+                  - generic [ref=f2e241]:
+                    - button [ref=f2e242] [cursor=pointer]: GO
+                    - button [ref=f2e243] [cursor=pointer]: Close
+            - generic [ref=f2e249]:
+              - paragraph [ref=f2e250]: © 2026 Nimble Accounting
+              - paragraph [ref=f2e251]: All rights reserved
+          - dialog [ref=f2e255]:
+            - document:
+              - generic [ref=f2e257]:
+                - generic [ref=f2e258]:
+                  - heading [level=5] [ref=f2e260]: Invoice
+                  - generic [ref=f2e261]:
+                    - button [ref=f2e262] [cursor=pointer]: ×
+                    - button [ref=f2e263] [cursor=pointer]:
+                      - generic [ref=f2e264]: 
+                    - generic [ref=f2e265]:
+                      - generic [ref=f2e266]: "Customize:"
+                      - generic [ref=f2e267]:
+                        - combobox [disabled] [ref=f2e268]
+                        - button [disabled] [ref=f2e270]:
+                          - generic [ref=f2e271]: 
+                - generic [ref=f2e272]:
+                  - generic [ref=f2e278]:
+                    - generic [ref=f2e279]:
+                      - generic [ref=f2e281]:
+                        - generic [ref=f2e283]:
+                          - generic [ref=f2e284]:
+                            - generic [ref=f2e285]: Corporation*
+                            - combobox [ref=f2e286]
+                          - generic [ref=f2e287]:
+                            - generic [ref=f2e288]: Customer*
+                            - generic [ref=f2e289]:
+                              - generic [ref=f2e293]:
+                                - searchbox [ref=f2e294]: Infotech
+                                - button [ref=f2e295] [cursor=pointer]:
+                                  - generic [ref=f2e296]: 
+                              - button [ref=f2e298] [cursor=pointer]:
+                                - generic [ref=f2e299]: 
+                          - generic [ref=f2e300]:
+                            - generic [ref=f2e301]:
+                              - text: Bill To
+                              - generic [ref=f2e303]: 
+                            - textbox [ref=f2e304]:
+                              - /placeholder: Enter Bill To/Ship To
+                          - generic [ref=f2e305]:
+                            - generic [ref=f2e306]: Memo
+                            - textbox [ref=f2e307]:
+                              - /placeholder: Enter Memo
+                        - generic [ref=f2e309]:
+                          - generic [ref=f2e310]:
+                            - generic [ref=f2e311]: Profit Center
+                            - combobox [ref=f2e312]
+                          - generic [ref=f2e313]:
+                            - generic [ref=f2e314]:
+                              - text: Consultant
+                              - generic [ref=f2e316]: 
+                            - combobox [ref=f2e317]
+                          - generic [ref=f2e318]:
+                            - generic [ref=f2e319]: Ship To
+                            - textbox [ref=f2e320]:
+                              - /placeholder: Ship To
+                              - text: Infotech,
+                          - generic [ref=f2e321]:
+                            - generic [ref=f2e322]: Service Period
+                            - textbox [ref=f2e323]:
+                              - /placeholder: Enter Service Period
+                          - generic [ref=f2e324]:
+                            - generic [ref=f2e325]: Vendor ID
+                            - textbox [ref=f2e326]:
+                              - /placeholder: Enter Vendor ID
+                      - generic [ref=f2e327]:
+                        - generic [ref=f2e328]:
+                          - generic [ref=f2e329]:
+                            - generic [ref=f2e330]: Invoice Date*
+                            - generic [ref=f2e331]:
+                              - textbox [ref=f2e332]:
+                                - /placeholder: Date Time
+                                - text: 3/31/2026
+                              - button [ref=f2e334] [cursor=pointer]:
+                                - generic [ref=f2e335]: 
+                          - generic [ref=f2e336]:
+                            - generic [ref=f2e337]: Net Days
+                            - generic [ref=f2e338]:
+                              - combobox [ref=f2e339]
+                              - button [ref=f2e341] [cursor=pointer]:
+                                - generic [ref=f2e342]: 
+                          - generic [ref=f2e343]:
+                            - generic [ref=f2e344]: Due Date
+                            - generic [ref=f2e345]:
+                              - textbox [ref=f2e346]:
+                                - /placeholder: Date Time
+                                - text: 4/30/2026
+                              - button [ref=f2e348] [cursor=pointer]:
+                                - generic [ref=f2e349]: 
+                        - generic [ref=f2e350]:
+                          - generic [ref=f2e351]:
+                            - generic [ref=f2e352]: PO No.
+                            - textbox [ref=f2e353]:
+                              - /placeholder: Enter PO No.
+                          - generic [ref=f2e354]:
+                            - generic [ref=f2e355]: Ship Date
+                            - generic [ref=f2e356]:
+                              - textbox [ref=f2e357]:
+                                - /placeholder: Date Time
+                                - text: 3/31/2026
+                              - button [ref=f2e359] [cursor=pointer]:
+                                - generic [ref=f2e360]: 
+                          - generic [ref=f2e361]:
+                            - generic [ref=f2e362]: Ship Via
+                            - generic [ref=f2e363]:
+                              - combobox [ref=f2e364]
+                              - button [ref=f2e366] [cursor=pointer]:
+                                - generic [ref=f2e367]: 
+                        - generic [ref=f2e368]:
+                          - generic [ref=f2e369]:
+                            - generic [ref=f2e370]: Remit To
+                            - generic [ref=f2e371]:
+                              - combobox [ref=f2e372]
+                              - button [ref=f2e374] [cursor=pointer]:
+                                - generic [ref=f2e375]: 
+                          - generic [ref=f2e376]:
+                            - generic [ref=f2e377]: CIN
+                            - textbox [ref=f2e378]:
+                              - /placeholder: Enter CIN
+                        - generic [ref=f2e379]:
+                          - generic [ref=f2e380]:
+                            - generic [ref=f2e381]: Period From Date
+                            - generic [ref=f2e382]:
+                              - textbox [ref=f2e383]:
+                                - /placeholder: MM/DD/YYYY
+                              - button [ref=f2e385] [cursor=pointer]:
+                                - generic [ref=f2e386]: 
+                          - generic [ref=f2e387]:
+                            - generic [ref=f2e388]: Period To Date
+                            - generic [ref=f2e389]:
+                              - textbox [ref=f2e390]:
+                                - /placeholder: MM/DD/YYYY
+                              - button [ref=f2e392] [cursor=pointer]:
+                                - generic [ref=f2e393]: 
+                      - generic [ref=f2e394]:
+                        - generic [ref=f2e396]:
+                          - generic [ref=f2e397]: Invoice No.*
+                          - textbox [ref=f2e398]:
+                            - /placeholder: Enter No.
+                        - generic [ref=f2e400]:
+                          - paragraph [ref=f2e401]: Balance Due
+                          - paragraph [ref=f2e402]: "0.00"
+                    - generic [ref=f2e403]:
+                      - table [ref=f2e405]:
+                        - rowgroup [ref=f2e406]:
+                          - row [ref=f2e407]:
+                            - columnheader [ref=f2e408]: "Consultant : Project"
+                            - columnheader [ref=f2e409]: Service Item
+                            - columnheader [ref=f2e410]: Description
+                            - columnheader [ref=f2e411]: Quantity
+                            - columnheader [ref=f2e412]: Rate
+                            - columnheader [ref=f2e413]: Amount
+                            - columnheader [ref=f2e414]: Commissions
+                            - columnheader [ref=f2e415]: Action
+                        - rowgroup [ref=f2e416]:
+                          - row [ref=f2e417]:
+                            - cell [ref=f2e418]:
+                              - combobox [ref=f2e419]
+                            - cell [ref=f2e420]:
+                              - generic [ref=f2e421]:
+                                - combobox [ref=f2e422]
+                                - button [ref=f2e424] [cursor=pointer]:
+                                  - generic [ref=f2e425]: 
+                            - cell [ref=f2e426]:
+                              - textbox [ref=f2e427]
+                            - cell [ref=f2e428]:
+                              - textbox [ref=f2e429]: "1"
+                            - cell [ref=f2e430]:
+                              - textbox [ref=f2e431]: "0.00"
+                            - cell [ref=f2e432]:
+                              - textbox [ref=f2e433]:
+                                - /placeholder: "0.00"
+                                - text: "0.00"
+                            - cell [ref=f2e434]:
+                              - checkbox [ref=f2e435]
+                            - cell [ref=f2e436]:
+                              - button [ref=f2e437] [cursor=pointer]:
+                                - generic [ref=f2e438]: 
+                              - button [ref=f2e439] [cursor=pointer]:
+                                - generic [ref=f2e440]: 
+                        - rowgroup [ref=f2e441]:
+                          - row [ref=f2e442]:
+                            - cell [ref=f2e443]:
+                              - strong [ref=f2e445]: Project Total
+                            - cell [ref=f2e446]:
+                              - spinbutton [ref=f2e448]: "0.00"
+                            - cell [ref=f2e449]
+                            - cell [ref=f2e450]
+                      - table [ref=f2e452]:
+                        - rowgroup [ref=f2e453]:
+                          - row [ref=f2e454]:
+                            - columnheader [ref=f2e455]: Tax
+                            - columnheader [ref=f2e456]: Rate(%)
+                            - columnheader [ref=f2e457]: Amount
+                            - columnheader [ref=f2e458]: Action
+                        - rowgroup [ref=f2e459]:
+                          - row [ref=f2e460]:
+                            - cell [ref=f2e461]:
+                              - generic [ref=f2e462]:
+                                - combobox [ref=f2e463]
+                                - button [ref=f2e465] [cursor=pointer]:
+                                  - generic [ref=f2e466]: 
+                            - cell [ref=f2e467]:
+                              - textbox [ref=f2e468]: "0.00"
+                            - cell [ref=f2e469]:
+                              - textbox [ref=f2e470]: "0.00"
+                            - cell [ref=f2e471]:
+                              - button [ref=f2e472] [cursor=pointer]:
+                                - generic [ref=f2e473]: 
+                              - button [ref=f2e474] [cursor=pointer]:
+                                - generic [ref=f2e475]: 
+                        - rowgroup [ref=f2e476]:
+                          - row [ref=f2e477]:
+                            - cell [ref=f2e478]
+                            - columnheader [ref=f2e479]:
+                              - generic [ref=f2e481]: Tax Total
+                            - columnheader [ref=f2e482]:
+                              - spinbutton [ref=f2e484]: "0.00"
+                            - cell [ref=f2e485]
+                      - table [ref=f2e487]:
+                        - rowgroup [ref=f2e488]:
+                          - row [ref=f2e489]:
+                            - columnheader [ref=f2e490]
+                            - columnheader [ref=f2e491]
+                            - columnheader [ref=f2e492]
+                            - columnheader [ref=f2e493]
+                            - columnheader [ref=f2e494]:
+                              - generic [ref=f2e496]: Total Invoice
+                              - generic [ref=f2e498]: Received Amount
+                              - generic [ref=f2e500]: Adjustment Amount
+                              - generic [ref=f2e502]: Discount Amount
+                              - generic [ref=f2e504]: Balance Due
+                            - columnheader [ref=f2e505]:
+                              - spinbutton [ref=f2e507]: "0.00"
+                              - spinbutton [ref=f2e509]: "0.00"
+                              - spinbutton [ref=f2e511]: "0.00"
+                              - spinbutton [ref=f2e513]: "0.00"
+                              - spinbutton [ref=f2e515]: "0.00"
+                            - columnheader [ref=f2e516]
+                            - columnheader [ref=f2e517]
+                    - generic [ref=f2e520]:
+                      - button [ref=f2e522] [cursor=pointer]: Adjustment/Discount
+                      - generic [ref=f2e523]:
+                        - generic [ref=f2e525] [cursor=pointer]: None
+                        - generic [ref=f2e528] [cursor=pointer]: Is Recurring?
+                        - generic [ref=f2e531] [cursor=pointer]: Is Automatic?
+                    - generic [ref=f2e537]:
+                      - generic [ref=f2e538] [cursor=pointer]:
+                        - paragraph [ref=f2e540]: Upload Attachments
+                        - generic [ref=f2e542]: 
+                      - text:  
+                  - generic [ref=f2e544]:
+                    - generic [ref=f2e545]:
+                      - button [ref=f2e546] [cursor=pointer]: Reset
+                      - button [ref=f2e547] [cursor=pointer]: Close
+                    - generic [ref=f2e549] [cursor=pointer]: Preview Invoice
+                    - generic [ref=f2e551]:
+                      - generic [ref=f2e552]:
+                        - button [disabled] [ref=f2e553]: Save & New
+                        - button [ref=f2e555] [cursor=pointer]
+                      - button [disabled] [ref=f2e556]: Save
+                - generic [ref=f2e559]:
+                  - generic [ref=f2e560]:
+                    - heading [level=3] [ref=f2e561]: Choose what you use
+                    - link [ref=f2e562] [cursor=pointer]:
+                      - /url: ""
+                      - text: ×
+                  - paragraph [ref=f2e563]: Changes you make here apply to all invoice forms (like Service Period, PO No., Ship Date).
+                  - generic [ref=f2e565]:
+                    - paragraph [ref=f2e566]: Fields
+                    - generic [ref=f2e568]:
+                      - generic [ref=f2e570] [cursor=pointer]: Service Period
+                      - generic [ref=f2e573] [cursor=pointer]: Vendor Id
+                      - generic [ref=f2e576] [cursor=pointer]: PO No.
+                      - generic [ref=f2e579] [cursor=pointer]: Ship Date
+                      - generic [ref=f2e582] [cursor=pointer]: Ship Via
+                      - generic [ref=f2e585] [cursor=pointer]: Remit To
+                      - generic [ref=f2e588] [cursor=pointer]: CIN No.
+                    - paragraph [ref=f2e590]: Optional Columns
+                    - generic [ref=f2e592]:
+                      - generic [ref=f2e594] [cursor=pointer]: Description
+                      - generic [ref=f2e597] [cursor=pointer]: Quantity
+                      - generic [ref=f2e600] [cursor=pointer]: Rate
+                      - generic [ref=f2e603] [cursor=pointer]: Commission
+          - dialog "Invoice" [ref=f2e606]:
+            - document:
+              - generic [ref=f2e607]:
+                - generic [ref=f2e608]:
+                  - heading "Billable Time, Expenses" [level=5] [ref=f2e610]
+                  - button "Close" [active] [ref=f2e612] [cursor=pointer]: ×
+                - generic [ref=f2e613]:
+                  - generic [ref=f2e614]:
+                    - generic [ref=f2e615]:
+                      - generic [ref=f2e616]:
+                        - generic [ref=f2e617]: From Date
+                        - generic [ref=f2e618]:
+                          - textbox "MM/DD/YYYY" [ref=f2e619]
+                          - button "" [ref=f2e621] [cursor=pointer]:
+                            - generic [ref=f2e622]: 
+                      - generic [ref=f2e623]:
+                        - generic [ref=f2e624]: To Date
+                        - generic [ref=f2e625]:
+                          - textbox "MM/DD/YYYY" [ref=f2e626]: 3/31/2026
+                          - button "" [ref=f2e628] [cursor=pointer]:
+                            - generic [ref=f2e629]: 
+                      - generic [ref=f2e630]:
+                        - generic [ref=f2e631]: Consultant
+                        - combobox [ref=f2e632]:
+                          - option "Infotech (Customer)"
+                          - option "Kamal Vaddi (W2)" [selected]
+                      - generic [ref=f2e633]:
+                        - generic [ref=f2e634]: Project
+                        - combobox [ref=f2e635]:
+                          - option "-- Select --" [selected]
+                      - generic [ref=f2e636]:
+                        - generic [ref=f2e637]: Billing Type
+                        - generic [ref=f2e638]:
+                          - generic [ref=f2e640] [cursor=pointer]:
+                            - radio "Hourly" [checked]
+                            - text: Hourly
+                          - generic [ref=f2e643] [cursor=pointer]:
+                            - radio "Day Rate"
+                            - text: Day Rate
+                          - generic [ref=f2e646] [cursor=pointer]:
+                            - radio "Fixed Rate"
+                            - text: Fixed Rate
+                          - button "Search" [ref=f2e649] [cursor=pointer]
+                    - generic [ref=f2e651]:
+                      - tablist [ref=f2e652]:
+                        - listitem [ref=f2e653]:
+                          - tab "Time" [selected] [ref=f2e654] [cursor=pointer]
+                        - listitem [ref=f2e655]:
+                          - tab "Expense" [ref=f2e656] [cursor=pointer]
+                      - tabpanel "Time" [ref=f2e658]:
+                        - generic [ref=f2e661]:
+                          - generic [ref=f2e664] [cursor=pointer]:
+                            - checkbox "Select All"
+                            - text: Select All
+                          - table [ref=f2e667]:
+                            - rowgroup [ref=f2e668]:
+                              - row "Date Name Project Service Item Hrs/Qty Rate Amount Description Actions" [ref=f2e669]:
+                                - columnheader [ref=f2e670]:
+                                  - generic [ref=f2e671]:
+                                    - generic:
+                                      - generic:
+                                        - checkbox [disabled]
+                                      - checkbox
+                                - columnheader "Date" [ref=f2e672]
+                                - columnheader "Name" [ref=f2e673]
+                                - columnheader "Project" [ref=f2e674]
+                                - columnheader "Service Item" [ref=f2e675]
+                                - columnheader "Hrs/Qty" [ref=f2e676]
+                                - columnheader "Rate" [ref=f2e677]
+                                - columnheader "Amount" [ref=f2e678]
+                                - columnheader "Description" [ref=f2e679]
+                                - columnheader "Actions" [ref=f2e680]
+                            - rowgroup [ref=f2e681]:
+                              - row "No records found" [ref=f2e682]:
+                                - cell "No records found" [ref=f2e683]
+                            - rowgroup [ref=f2e684]:
+                              - row "Total" [ref=f2e685]:
+                                - cell [ref=f2e686]
+                                - cell [ref=f2e687]
+                                - cell [ref=f2e688]
+                                - cell "Total" [ref=f2e689]
+                                - cell [ref=f2e690]
+                                - cell [ref=f2e691]
+                                - cell [ref=f2e692]
+                                - cell [ref=f2e693]
+                                - cell [ref=f2e694]
+                                - cell [ref=f2e695]
+                          - generic [ref=f2e697]:
+                            - generic [ref=f2e698] [cursor=pointer]: Showing 0 to 0 of 0 entries
+                            - button "" [disabled]:
+                              - generic: 
+                            - button "" [disabled]:
+                              - generic: 
+                            - button "" [disabled]:
+                              - generic: 
+                            - button "" [disabled]:
+                              - generic: 
+                  - generic [ref=f2e699]:
+                    - generic [ref=f2e701]: Print Time& Exp
+                    - generic [ref=f2e702]:
+                      - combobox [ref=f2e704]:
+                        - option "Cumulative (All in Single Row)" [selected]
+                        - option "Multiple (Multiple Rows)"
+                        - option "Weekly Line (Mon-Sun)"
+                        - option "Weekly Line (Tue-Mon)"
+                        - option "Weekly Line (Wed-Tue)"
+                        - option "Weekly Line (Thu-Wed)"
+                        - option "Weekly Line (Fri-Thu)"
+                        - option "Weekly Line (Sat-Fri)"
+                        - option "Weekly Line (Sun-Sat)"
+                      - generic [ref=f2e706]:
+                        - generic [ref=f2e707]: "Timesheets(0):"
+                        - generic [ref=f2e708]: 0.00/Hours 0:00
+                      - generic [ref=f2e710]:
+                        - generic [ref=f2e711]: "Expenses(0):"
+                        - generic [ref=f2e712]: "0.00"
+                      - generic [ref=f2e714]:
+                        - generic [ref=f2e715]: "Total:"
+                        - generic [ref=f2e716]: "0.00"
+                      - generic [ref=f2e717]:
+                        - button "Close" [ref=f2e718] [cursor=pointer]
+                        - button "Set" [ref=f2e719] [cursor=pointer]
+    - text: 
+```
