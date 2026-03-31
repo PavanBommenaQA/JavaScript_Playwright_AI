@@ -4,8 +4,8 @@ test.only('nimble login smoke test', async ({ page }) => {
 
     await page.goto('https://qa.nimblestaffing.net/');
 
-    await page.locator('#tbUserName').fill('pavan.bommena@nimbleaccounting.com');
-    await page.locator('#tbPassword').fill('Nimble#2025');
+    await page.locator('#tbUserName').fill('Give your Mailaddress');
+    await page.locator('#tbPassword').fill('Give Password');
     await page.locator('#bLoginButton').click();
 
     const mainFrame = page.frameLocator("//iframe[@id='ifNimble']");
